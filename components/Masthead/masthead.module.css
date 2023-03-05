@@ -1,0 +1,32 @@
+.masthead {
+  width: 100vw;
+  position: fixed;
+  height: 4rem;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  border-bottom: thin solid #999;
+}
+
+.logo {
+  width: 250px;
+  height: 4rem;
+  background-color: #999;
+  display: block;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.list-items {
+}
+
+.link {
+  color: black;
+}
